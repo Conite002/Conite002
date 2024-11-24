@@ -1,12 +1,10 @@
 # Hi there, I'm Conité GBODOGBE! 👋  
 
-🎓 I’m currently pursuing a Master’s in Data Science at the **College of Computing, UM6P (Université Mohammed VI Polytechnique)**.  
-
-🤖 I’m deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Business Intelligence (BI)**. My goal is to explore innovative solutions, build impactful projects, and contribute to the AI and Data Science community.  
+🎓 I’m currently pursuing a Master’s in Data Science at the **College of Computing, UM6P (Université Mohammed VI Polytechnique)**.  I’m passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Business Intelligence (BI)**. My goal is to explore innovative solutions, build impactful projects, and contribute to the AI and Data Science community.  
 
 ♟️ Beyond data, I’m an avid chess enthusiast (I started in 2023 and haven’t looked back), a football fan, and an explorer at heart who loves traveling to discover new cultures and perspectives.  
 
-💻 This GitHub is where I showcase my personal projects, collaborate on innovative ideas, and share knowledge. I’m always open to learning and collaborating with like-minded individuals.  
+This GitHub is where I showcase my personal projects, collaborate on innovative ideas, and share knowledge. I’m always open to learning and collaborating with like-minded individuals.  
 
 ---
 
