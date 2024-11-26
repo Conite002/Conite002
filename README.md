@@ -1,6 +1,7 @@
-# Hi there, I'm Conité GBODOGBE! 👋  
+# Hi there, I'm Conité GBODOGBE! 👋
 
 🎓 I’m currently pursuing a Master’s in Data Science at the **College of Computing, UM6P (Université Mohammed VI Polytechnique)**.  I’m passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Business Intelligence (BI)**. 
+
 ---
 
 ### 🌐 Blog  
