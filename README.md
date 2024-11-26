@@ -10,7 +10,7 @@
 ---
 
 ### 📫 How to reach me  
-- **Email**: [dsconite@gmail.com](mailto:dsconite@gmail.com)  
+- **Email**: [conite.gbodogbe@um6p.ma](mailto:conite.gbodogbe@um6p.ma)  
 - **LinkedIn**: [Conite GBODOGBE](https://www.linkedin.com/in/d-s-conit%C3%A9-gbodogbe/)  
 
 ---
